@@ -1,0 +1,59 @@
+Here is a very simple HTML-only Portfolio Biodata program – perfect for beginners or school/college projects.
+
+
+✅ Simple Portfolio Biodata (HTML Only)
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Portfolio Biodata</title>
+</head>
+<body>
+
+<h1>My Biodata</h1>
+
+<h2>Personal Information</h2>
+<p><strong>Name:</strong> KrishnaPriya</p>
+<p><strong>Age:</strong> 19</p>
+<p><strong>Gender:</strong> Female</p>
+<p><strong>Email:</strong> priyakrish1804@gmail.com</p>
+<p><strong>Phone:</strong> 9488508895</p>
+
+<h2>Education</h2>
+<p><strong>College:</strong> ABC University</p>
+<p><strong>Degree:</strong> B.Sc Computer Science</p>
+<p><strong>Year:</strong> 2021 - 2024</p>
+
+<h2>Skills</h2>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript (Basic)</li>
+</ul>
+
+<h2>Projects</h2>
+<ol>
+<li>My Portfolio Website</li>
+<li>Simple Calculator in JavaScript</li>
+</ol>
+
+<h2>Hobbies</h2>
+<ul>
+<li>Reading</li>
+<li>Coding</li>
+<li>Designing</li>
+</ul>
+
+<h2>Contact</h2>
+<p>Email: <a href="mailto:janedoe@example.com">janedoe@example.com</a></p>
+
+</body>
+</html>
+
+
+💡 How to Use:
+Open Notepad or any text editor.
+Copy and paste the code above.
+Save it as portfolio.html.
+Open it in your browser to see the result.
+
+Would you
